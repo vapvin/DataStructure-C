@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/vins/Vins/DataStructure-C/main.cpp">
+		<Unit filename="/home/vins/Vins/DataStructure-C/main.c">
 			<Option target="DataStructure_C"/>
 		</Unit>
 		<Unit filename="/home/vins/Vins/DataStructure-C/CMakeLists.txt">
