@@ -36,9 +36,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="814304b7-3cc1-462a-a7bd-52d40d2a41cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure_C.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure_C.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DataStructure_C" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/DataStructure_C" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583421627978</updated>
-      <workItem from="1583421629457" duration="960000" />
+      <workItem from="1583421629457" duration="1004000" />
     </task>
     <servers />
   </component>

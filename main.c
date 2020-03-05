@@ -24,7 +24,10 @@ void show(){
 }
 
 void removes(int index){
-
+    for(int i = index; i < count - 1; i++){
+        arr[i] = arr[i + 1];
+    }
+    count--;
 }
 
 int main(void){
