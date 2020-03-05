@@ -1,0 +1,3 @@
+/home/vins/Vins/DataStructure-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vins/Vins/DataStructure-C/cmake-build-debug/CMakeFiles/DataStructure_C.dir
+/home/vins/Vins/DataStructure-C/cmake-build-debug/CMakeFiles/edit_cache.dir
