@@ -23,6 +23,10 @@ void show(){
     }
 }
 
+void removes(int index){
+
+}
+
 int main(void){
 
     insertBack(1);
@@ -32,6 +36,7 @@ int main(void){
     insertBack(3);
     pushFront(9);
     pushFront(2);
+    removes(4);
     show();
     return 0;
 }
